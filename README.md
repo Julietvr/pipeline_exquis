@@ -2,7 +2,7 @@
 
 Pipeline Exquis is an imaginative code experiment carried out by Hina, Megan and Juliet in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge.
 
-Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse), the cafe game/surrealist method. [Here](#from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
+Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse), the cafe game/surrealist method. [Here](#1-from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
 
 In addition to making a Pipeline Exquis for the fun of it (like making a Cadavre Exquis for the fun of it), the experiment was set up to reflect on some theoretical questions relating to ML development. These questions are introduced [here](#2-theoretical-considerations), and a set of relevant terms and concepts is listed up in the [glossary](#glossary).
 
