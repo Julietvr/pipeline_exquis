@@ -4,13 +4,13 @@
 
 When you start working on the first free part, write down your name next to the part, en mark it with "in progress" until you're finished.
 
-| when | what | who |
-| - | - | - |
-| 18 May @ 13:00 | create repo | Juliet |
-| 19 May @ ??:?? | Part 1: data preprocessing | Juliet [ IN PROGRESS ] |
-| ?? May @ ??:?? | Part 2: data modelling | [ ??? ]  |
-| ?? May @ ??:?? | Part 3: model deployment | [ ??? ] |
-| 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet |
+| when | what | who | status |
+| - | - | - | - |
+| 18 May @ 13:00 | create repo | Juliet | DONE |
+| 19 May @ 13:00 | Part 1: data preprocessing | Juliet | DONE |
+| ?? May @ ??:?? | Part 2: data modelling | [ ??? ]  | |
+| ?? May @ ??:?? | Part 3: model deployment | [ ??? ] | |
+| 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet | |
 
 ## Log
 
@@ -18,11 +18,11 @@ When you are finished with your part, you can write down the info that the perso
 
 ### Part 1: data preprocessing
 
-- File(s) created: [ ??? ]
-- Input file for Part 2: [ ??? ]
-- Info about input file for Part 2: [ ??? ]
+- File(s) created: `raw_data.txt`, `preprocessed_data.csv`, `data_preprocessing.ipynb`
+- Input file for Part 2: `preprocessed_data.csv`
+- Info about input file for Part 2: `preprocessed_data.csv` contains an index column, 12 categorical features `x1` - `x12`, and a categorical label `y`
 
-Other remarks: [ ??? ]
+Other remarks: -
 
 ### Part 2: data modelling
 
