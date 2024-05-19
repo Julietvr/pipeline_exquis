@@ -7,7 +7,7 @@ When you start working on the first free part, write down your name next to the 
 | when | what | who |
 | - | - | - |
 | 18 May @ 13:00 | create repo | Juliet |
-| ?? May @ ??:?? | Part 1: data preprocessing | [ ??? ] |
+| 19 May @ ??:?? | Part 1: data preprocessing | Juliet [ IN PROGRESS ] |
 | ?? May @ ??:?? | Part 2: data modelling | [ ??? ]  |
 | ?? May @ ??:?? | Part 3: model deployment | [ ??? ] |
 | 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet |
