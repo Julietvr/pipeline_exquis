@@ -26,11 +26,11 @@ Other remarks: -
 
 ### Part 2: data modelling
 
-- File(s) created: [ ??? ]
-- Input file for Part 3: [ ??? ]
-- Info about input file for Part 3: [ ??? ]
+- File(s) created: `model.pickle`, `data_modelling.ipynb`
+- Input file for Part 3: `model.pickle`
+- Info about input file for Part 3: `model.pickle` contains a trained and fitted model (sklearn.tree.DecisionTreeClassifier, accuracy of 76,2%). This model can be called using the `predict` method. 
 
-Other remarks: [ ??? ]
+Other remarks: Python version 3.7.4, sklearn version 0.21.3
 
 ### Part 3: model deployment
 
