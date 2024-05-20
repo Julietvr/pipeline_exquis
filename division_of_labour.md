@@ -36,4 +36,4 @@ Other remarks: Python version 3.7.4, sklearn version 0.21.3
 
 - File(s) created: [ ??? ]
 
-Other remarks: [ ??? ]
+Other remarks: scikit-learn 0.23.2, python 3.8.5, numpy 1.19.5
