@@ -9,7 +9,7 @@ When you start working on the first free part, write down your name next to the 
 | 18 May @ 13:00 | create repo | Juliet | DONE |
 | 19 May @ 13:00 | Part 1: data preprocessing | Juliet | DONE |
 | 19 May @ 15:30 | Part 2: data modelling | Hina  | DONE |
-| 20 May @ ??:?? | Part 3: model deployment | Megan |  |
+| 20 May @ ??:?? | Part 3: model deployment | Megan | DONE |
 | 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet | |
 
 ## Log
@@ -34,6 +34,6 @@ Other remarks: Python version 3.7.4, sklearn version 0.21.3
 
 ### Part 3: model deployment
 
-- File(s) created: [ ??? ]
+- File(s) created: model_deployment.ipynb
 
 Other remarks: scikit-learn 0.23.2, python 3.8.5, numpy 1.19.5
