@@ -86,3 +86,8 @@ Questions for reflection:
 **Machine learning pipeline**: A machine learning pipeline contains the various stages of data processing required to produce an ML system. These steps can be broken down in various levels of detail. E.g. IBM identifies data collection, data preprocessing, feature engineering, model selection, model training, model evaluation, model deployment, monotoring and maintenance.
 
 **AI system as a product**: Software is provided less and less in the form of an end product, and more and more in the form of a subscription service. As developers continue to update the software, the product becomes "dynamic", continuously changing. In AI systems, this is relevant when features need to be updated or when new data is available.
+
+**what about adding:
+data worker (?) or the people who would be in the pipeline?
+
+*ADD REFERENCES LIST*
