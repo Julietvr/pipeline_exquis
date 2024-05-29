@@ -69,6 +69,7 @@ Questions for reflection:
 - Is the production of (ML) code more similar to the production of technological objects such as cars, or the production of writing in natural language?
 
 
+*The next person should not *read* any files they are not working on --> hard to not read without inferring a context (based on experience)*
 ## Glossary
 
 **Critical Code Studies**: "Critical code studies is the application of the hermeneutics of the humanities to the interpretation of the extra-functional significance of computer source code. “Extra” here does not mean “outside of” or “apart from” but instead it refers to a significance that is “growing out of” an understanding of the functioning of the code." (Marino & Douglass, 2023) Critical code studies treats code as a cultural product that should thus be included in critical cultural analysis.
