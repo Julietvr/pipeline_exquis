@@ -9,8 +9,8 @@ When you start working on the first free part, write down your name next to the 
 | 18 May @ 13:00 | create repo | Juliet | DONE |
 | 19 May @ 13:00 | Part 1: data preprocessing | Juliet | DONE |
 | 19 May @ 15:30 | Part 2: data modelling | Hina  | DONE |
-| 20 May @ ??:?? | Part 3: model deployment | Megan | DONE |
-| 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet | |
+| 20 May @ 17:30 | Part 3: model deployment | Megan | DONE |
+| 20 May @ 18:00 | "reveal" and review | Hina, Megan, Juliet |DONE |
 
 ## Log
 
