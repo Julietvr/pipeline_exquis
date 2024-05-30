@@ -1,10 +1,12 @@
 # Pipeline Exquis
 
-Pipeline Exquis is an imaginative code experiment carried out by Hina, Megan and Juliet in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge. This conference is situated in the field of [critical code studies](#glossary)
+Pipeline Exquis is an imaginative code experiment carried out by Hina [add last name], Megan Leal Causton and Juliet van Rosendaal in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge. This conference is situated in the field of [critical code studies](#glossary)
 
 Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse), the cafe game/surrealist method. [Here](#1-from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
 
 In addition to making a Pipeline Exquis for the fun of it (like making a Cadavre Exquis for the fun of it), the experiment was set up to reflect on some theoretical questions relating to ML development. These questions are introduced [here](#2-theoretical-considerations), and a set of relevant terms and concepts is listed up in the [glossary](#glossary).
+
+*INSERT something in terms of changing landscape of machine learning...etc mirroring the analogue cadavre exquis vs now and future.*
 
 ## 1. From Cadavre Exquis to Pipeline Exquis
 
@@ -68,6 +70,8 @@ Questions for reflection:
 - Is there something unique to a division of labour for AI systems, compared to a division of labour for other technological objects such as cars?
 - Is the production of (ML) code more similar to the production of technological objects such as cars, or the production of writing in natural language?
 
+*the places of conflict or for further reflection seem to be: tick marks & crease marks & choices made in terms of the software used (versions etc). what is interesting is that this kind of exercise segments accountability or documentation, therefore in full the choices made are not necessarily synced to throughout the whole pipeline (especially in step 1 vs model deployment where biases could ocurr...)*
+*To what extent do you think this method corresponds to real life practices in AI development? There are 2 streams of communication going on here. 1 is through the game, the other(s) I suppose are the more technical communication streams which ocurr as technical logs etc. In this case this superficiality remains, however human agency is removed even more (and in this case as designer 3 not having access to documentation, notes and insight that ocurr in data collection and choices made by designer 2 leaves you blindsided and purely playing with abstract numbers and structures. Only by coding through error are you able to problem solve to receive some kind of "result". "result" here being whatever looks like a result based on your past experience (more statistically in this example rather than anything).*
 
 ## Glossary
 
