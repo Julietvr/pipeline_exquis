@@ -2,7 +2,7 @@
 
 ## Tracking progress
 
-When you start working on the first free part, write down your name next to the part, en mark it with "in progress" until you're finished.
+When you start working on the first free part, write down your name next to the part, and mark it with "in progress" until you're finished.
 
 | when | what | who | status |
 | - | - | - | - |

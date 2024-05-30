@@ -1,12 +1,12 @@
 # Pipeline Exquis
 
-Pipeline Exquis is an imaginative code experiment carried out by Hina [add last name], Megan Leal Causton and Juliet van Rosendaal in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge. This conference is situated in the field of [critical code studies](#glossary)
+Pipeline Exquis is an imaginative code experiment carried out by Hina Vuijk, Megan Leal Causton and Juliet van Rosendaal in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge. This conference is situated in the field of [critical code studies](#glossary).
 
 Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse), the cafe game/surrealist method. [Here](#1-from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
 
 In addition to making a Pipeline Exquis for the fun of it (like making a Cadavre Exquis for the fun of it), the experiment was set up to reflect on some theoretical questions relating to ML development. These questions are introduced [here](#2-theoretical-considerations), and a set of relevant terms and concepts is listed up in the [glossary](#glossary).
 
-*INSERT something in terms of changing landscape of machine learning...etc mirroring the analogue cadavre exquis vs now and future.*
+*M: INSERT something in terms of changing landscape of machine learning...etc mirroring the analogue cadavre exquis vs now and future.*
 
 ## 1. From Cadavre Exquis to Pipeline Exquis
 
@@ -56,7 +56,7 @@ The development of the Pipeline Exquis proceeds as follows:
 
 ## 2. Theoretical considerations
 
-*This was the text I originally submitted for applying for the conference.*
+*This was the text originally submitted for applying for the conference.*
 
 Back in 2018, Crawford and Joler drew attention to the material reality of seemingly immaterial AI systems by mapping out its production process from start to finish. Part of this material reality is the involved labor, not only of developers, but for example also of workers labeling data or users generating feedback data. This has led to concerns such as fair labor conditions for click workers and platform workers, and transparency and privacy protection in collection of user data. What has not been questioned, is the effects of divisions of labor as such on the resulting AI products. **Can we understand the specific configuration of workers (e.g., their number, their tasks, their material and communicative means) of the AI production process to affect the resulting AI system in any possible (epistemological/ethical/technical) way?** To address this question, I propose an experiment which is inspired by the surrealist method of the _cadavre exquis_. To create a poem or a drawing, a group of artists follows a strict procedure in which one after the other adds their part to the artwork, without communicating with the others or seeing what the others have added before. The result of their work can be considered the expression of the subconscious (as the surrealists did), or simply as fun or nonsensical. For the experiment I propose, I will follow this procedure together with at least two collaborators to produce a "pipeline exquis". During the conference, we will present the pipeline, and take it as a point of reference in which a peculiar, “isolated” configuration of workers is imposed, to reflect on the question at stake.
 
@@ -70,8 +70,37 @@ Questions for reflection:
 - Is there something unique to a division of labour for AI systems, compared to a division of labour for other technological objects such as cars?
 - Is the production of (ML) code more similar to the production of technological objects such as cars, or the production of writing in natural language?
 
-*the places of conflict or for further reflection seem to be: tick marks & crease marks & choices made in terms of the software used (versions etc). what is interesting is that this kind of exercise segments accountability or documentation, therefore in full the choices made are not necessarily synced to throughout the whole pipeline (especially in step 1 vs model deployment where biases could ocurr...)*
-*To what extent do you think this method corresponds to real life practices in AI development? There are 2 streams of communication going on here. 1 is through the game, the other(s) I suppose are the more technical communication streams which ocurr as technical logs etc. In this case this superficiality remains, however human agency is removed even more (and in this case as designer 3 not having access to documentation, notes and insight that ocurr in data collection and choices made by designer 2 leaves you blindsided and purely playing with abstract numbers and structures. Only by coding through error are you able to problem solve to receive some kind of "result". "result" here being whatever looks like a result based on your past experience (more statistically in this example rather than anything).*
+### Notes discussion 20 May 2024:
+
+-	Most important reveal: what the data was about
+-	For Megan
+	- “Death calculator”
+	- Frustrating; no notion of context, so neither of potential use
+	- Issues with code; turned out due to package versions
+-	For Hina
+	- Fine; no notion of what data was about, but that is also not of major interest
+	- Ended up using variables that J considered not very useful
+-	For Juliet
+	- Created the context
+	- Acknowledge an extra preceding step in the division of labor: of the police officers collecting data
+		- Why did they collect certain data and others not?
+		- What kind of model would they like to use?
+-	Questions
+	- Did it work? Yes and no, depends on your notion of “work”.
+		- Yes in the sense that we could coordinate and rely on a shared frame of reference
+		- No in the sense that the code worked but the prediction was not accurate
+	- What would making a non-sensical dummy pipeline teach us about sensical real life pipeline?
+		- It is clear where context is needed, basically at the interface with the real world
+			- Data preprocessing
+			- Model deployment
+		- To relate this to critical code studies
+			- Basic assumption code is not only functional but also meaningful
+			- Would that mean that code is meaningful in a different way in part 1 and 3 than it is in part 2?
+
+### Notes Megan:
+
+The places of conflict or for further reflection seem to be: tick marks & crease marks & choices made in terms of the software used (versions etc). what is interesting is that this kind of exercise segments accountability or documentation, therefore in full the choices made are not necessarily synced to throughout the whole pipeline (especially in step 1 vs model deployment where biases could ocurr...)
+To what extent do you think this method corresponds to real life practices in AI development? There are 2 streams of communication going on here. 1 is through the game, the other(s) I suppose are the more technical communication streams which ocurr as technical logs etc. In this case this superficiality remains, however human agency is removed even more (and in this case as designer 3 not having access to documentation, notes and insight that ocurr in data collection and choices made by designer 2 leaves you blindsided and purely playing with abstract numbers and structures. Only by coding through error are you able to problem solve to receive some kind of "result". "result" here being whatever looks like a result based on your past experience (more statistically in this example rather than anything).
 
 ## Glossary
 
