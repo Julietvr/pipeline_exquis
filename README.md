@@ -73,18 +73,18 @@ Questions for reflection:
 ### Notes discussion 20 May 2024:
 
 -	Most important reveal: what the data was about
--	For Megan
-	- “Death calculator”
-	- Frustrating; no notion of context, so neither of potential use
-	- Issues with code; turned out due to package versions
--	For Hina
-	- Fine; no notion of what data was about, but that is also not of major interest
-	- Ended up using variables that J considered not very useful
 -	For Juliet
 	- Created the context
 	- Acknowledge an extra preceding step in the division of labor: of the police officers collecting data
 		- Why did they collect certain data and others not?
 		- What kind of model would they like to use?
+-	For Hina
+	- Fine; no notion of what data was about, but that is also not of major interest
+	- Ended up using variables that J considered not very useful
+-	For Megan
+	- “Death calculator”
+	- Frustrating; no notion of context, so neither of potential use
+	- Issues with code; turned out due to package versions
 -	Questions
 	- Did it work? Yes and no, depends on your notion of “work”.
 		- Yes in the sense that we could coordinate and rely on a shared frame of reference
