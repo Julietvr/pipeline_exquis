@@ -6,8 +6,6 @@ Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/P
 
 In addition to making a Pipeline Exquis for the fun of it (like making a Cadavre Exquis for the fun of it), the experiment was set up to reflect on some theoretical questions relating to ML development. These questions are introduced [here](#2-theoretical-considerations), and a set of relevant terms and concepts is listed up in the [glossary](#glossary).
 
-*M: INSERT something in terms of changing landscape of machine learning...etc mirroring the analogue cadavre exquis vs now and future.*
-
 ## 1. From Cadavre Exquis to Pipeline Exquis
 
 In this section, first the process of creating a Cadavre Exquis is described stepwise. Then, the same steps are adopted to match the process of creating an ML pipeline. 
