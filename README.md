@@ -1,6 +1,6 @@
 # Pipeline exquis: a critical coding exercise to re-enact ML practice
 
-Pipeline Exquis is a code experiment carried out by Hina Vuijk, Megan Leal Causton and Juliet van Rosendaal. It was first conducted in May 2024 in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge, UK which is situated in the field of [critical code studies](#glossary).
+Pipeline Exquis is a code experiment carried out by Hina Vuijk, Megan Leal Causton (Vrije Universiteit Brussel) and Juliet van Rosendaal (KU Leuven). It was first conducted in May 2024 in preparation of the conference [Code as Conversation: Transmedia Dialogues Around Critical Code Studies](https://www.cdh.cam.ac.uk/events/37778/) on 1 June 2024 in Cambridge, UK which is situated in the field of [critical code studies](#glossary).
 
 The exercise and conference presentation subsequently developed into a published research article as part of AI & Society's special issue on Critical code studies. 
 
