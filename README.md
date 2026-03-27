@@ -4,7 +4,11 @@ Pipeline Exquis is a code experiment carried out by Juliet van Rosendaal (KU Leu
 
 The exercise and conference presentation subsequently developed into a published research article as part of AI & Society's special issue on Critical code studies. 
 
-van Rosendaal, J & Leal Causton M [forthcoming]. The pipeline exquis: a critical coding exercise to re-enact ML practice. AI & Society.
+van Rosendaal, J., Leal Causton, M. The pipeline exquis: a critical coding exercise to re-enact ML practice. AI & Soc (2026). https://doi.org/10.1007/s00146-026-02963-5
+
+Readable version: (https://rdcu.be/e9zW8)
+
+https://link.springer.com/article/10.1007/s00146-026-02963-5
 
 Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse) the surrealist cafe game / surrealist method. [Here](#1-from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
 
