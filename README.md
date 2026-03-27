@@ -6,7 +6,7 @@ The exercise and conference presentation subsequently developed into a published
 
 van Rosendaal, J., Leal Causton, M. The pipeline exquis: a critical coding exercise to re-enact ML practice. AI & Soc (2026). https://doi.org/10.1007/s00146-026-02963-5
 
-Readable version: (https://rdcu.be/e9zW8)
+Readable version: https://rdcu.be/e9zW8
 
 Pipeline Exquis is a machine learning [pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)) version of [Cadavre Exquis](https://en.wikipedia.org/wiki/Exquisite_corpse) (Exquisite Corpse) the surrealist cafe game / surrealist method. [Here](#1-from-cadavre-exquis-to-pipeline-exquis) is described how the Cadavre Exquis is adopted exactly.
 
