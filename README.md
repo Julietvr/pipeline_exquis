@@ -131,7 +131,7 @@ To what extent do you think this method corresponds to real life practices in AI
 **AI system as a product**: Software is provided less and less in the form of an end product, and more and more in the form of a subscription service. As developers continue to update the software, the product becomes "dynamic", continuously changing. In AI systems, this is relevant when features need to be updated or when new data is available.
 
 ## Bibliography
-See the article [here] for full references.
+See the article [https://link.springer.com/article/10.1007/s00146-026-02963-5] for full references.
 
 
 # Source dataset: 
